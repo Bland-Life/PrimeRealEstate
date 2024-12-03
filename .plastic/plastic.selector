@@ -1,0 +1,4 @@
+repository "PrimeRealEstate@BlandL1fe@cloud"
+  path "/"
+    smartbranch "/main"       
+     

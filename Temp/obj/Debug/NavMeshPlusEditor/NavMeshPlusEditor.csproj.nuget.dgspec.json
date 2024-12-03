@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Documents\\Repos\\Unity2d\\PrimeRealEstate\\NavMeshPlusEditor.csproj": {}
+  },
+  "projects": {
+    "D:\\Documents\\Repos\\Unity2d\\PrimeRealEstate\\NavMeshPlus.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Documents\\Repos\\Unity2d\\PrimeRealEstate\\NavMeshPlus.csproj",
+        "projectName": "NavMeshPlus",
+        "projectPath": "D:\\Documents\\Repos\\Unity2d\\PrimeRealEstate\\NavMeshPlus.csproj",
+        "packagesPath": "C:\\Users\\greyg\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\Repos\\Unity2d\\PrimeRealEstate\\Temp\\obj\\Debug\\NavMeshPlus\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\greyg\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Documents\\Repos\\Unity2d\\PrimeRealEstate\\NavMeshPlusEditor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Documents\\Repos\\Unity2d\\PrimeRealEstate\\NavMeshPlusEditor.csproj",
+        "projectName": "NavMeshPlusEditor",
+        "projectPath": "D:\\Documents\\Repos\\Unity2d\\PrimeRealEstate\\NavMeshPlusEditor.csproj",
+        "packagesPath": "C:\\Users\\greyg\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\Repos\\Unity2d\\PrimeRealEstate\\Temp\\obj\\Debug\\NavMeshPlusEditor\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\greyg\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\Documents\\Repos\\Unity2d\\PrimeRealEstate\\NavMeshPlus.csproj": {
+                "projectPath": "D:\\Documents\\Repos\\Unity2d\\PrimeRealEstate\\NavMeshPlus.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
